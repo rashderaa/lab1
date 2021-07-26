@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    padding:0;
+    background:rgb(240, 239, 239);
+
+}
+h1{
+    margin:0;
+    font-weight: 200;
+
+
+}
+h2{
+    margin:0;
+    font-weight: 400;
+    color: rgb(7, 7, 7);
+}
+.box{
+    background:rgb(212, 211, 211);
+    width:50rem;
+    padding:3rem;
+    margin:1 rem auto;
+
+}
+.header{
+    display: grid;
+    grid-template-columns: 100% 100%;
+}
+.right{
+    text-align: right;
+    font-size: xx-small;
+}
+.grey{
+    background: rgb(133,133,133);
+    color:#fff;
+    padding:0.5rem;
+    border-radius: 0.3rem;
+}
+th{
+    color: rgb(7, 7, 7);
+}
